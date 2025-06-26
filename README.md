@@ -3,7 +3,7 @@
 "NAME":THANUKKA S  
 "INTERN ID":CITS0D534
 "DOMAIN":ARTIFICIAL INTELLIGENCE 
-"DURATION":4 WEEKS 
+"DURATION":4 WEEKS     
 "MENTOR":NEELA SANTHOSH
 "DESCRIPTION": As this topic is really interest even i don't know about AI but i learn more.
 This task is done by python language using Dhoni and beach image.
